@@ -15,7 +15,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # ui_trace921
-#GitHub
-README.mdでの画像のサイズ変更
-
 <img src=“https://user-images.githubusercontent.com/82959924/134634269-162bb616-96ed-4b64-828d-64719efa6089.png” width=“320px”>
